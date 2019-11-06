@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <name>PHP Info</name>
+    <version>100</version>
+    <defaultcat>Server Admin</defaultcat>
+    <desc>PHPInfo provides you with information regarding the version of PHP running on this system as well as installed PHP extensions and configuration details.
+    </desc>
+    <authorname>RactPanel Project</authorname>
+    <authoremail>info@ractpanel.ractbd.com</authoremail>
+    <authorurl>http://ractpanel.ractbd.com/</authorurl>
+    <updateurl>http://store.ractpanel.ractbd.com/version.xml</updateurl>
+</module>

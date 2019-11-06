@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <name>My Account</name>
+    <version>100</version>
+    <defaultcat>Account Information</defaultcat>
+    <desc>Your current personal account details, we ask that you keep these details up-to-date in case we need to contact you regarding your hosting services.</desc>
+    <authorname>RactPanel Project</authorname>
+    <authoremail>info@ractpanel.ractbd.com</authoremail>
+    <authorurl>http://ractpanel.ractbd.com/</authorurl>
+    <updateurl>http://store.ractpanel.ractbd.com/version.xml</updateurl>
+</module>

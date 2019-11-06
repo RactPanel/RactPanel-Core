@@ -1,0 +1,29 @@
+<div class="zmodule_content panel" id="zmodule_header_<@ ModuleName @>">
+    <div class="panel-heading">
+        <img src="<@ ModuleIcon @>" width="35" height="35" border="0" alt="<@ ModuleName @>">
+
+        <div class="zmodule_title">
+            <@ ModuleName @>
+        </div>
+
+        <div class="zmodule_desc" id="zmodule_desc_<@ ModuleName @>"><@ ModuleDesc @></div>
+
+    </div>
+
+
+    <div class="zform_wrapper">
+        <h2><: Latest RactPanel News :></h2>
+        <table class="table table-striped">
+            <% if RactPanelNews %>
+            <% loop RactPanelNews %>
+            <tr>
+                <td><img src="modules/news/assets/newspaper.png"> <a href="<& url &>" target="_blank" title="<: Click to view this news item :>"><& title &></a></td>
+            </tr>
+            <% endloop %>
+            <% else %>
+            Sorry, we couldn't connect to the RactPanel API Server, maybe it's down at the moment!
+            <% endif %>
+            </tr>
+        </table>
+    </div>
+</div>

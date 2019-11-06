@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <name>Package Manager</name>
+    <version>110</version>
+    <defaultcat>Reseller</defaultcat>
+    <desc>Welcome to the Package Manager, using this module enables you to create and manage existing reseller packages on your RactPanel hosting account.</desc>
+    <authorname>RactPanel Project</authorname>
+    <authoremail>info@ractpanel.ractbd.com</authoremail>
+    <authorurl>http://ractpanel.ractbd.com/</authorurl>
+    <updateurl>http://store.ractpanel.ractbd.com/version.xml</updateurl>
+</module>
