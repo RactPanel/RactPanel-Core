@@ -1,0 +1,19 @@
+----------lsb_release -a----------
+Distributor ID:	Trisquel
+Description:	Trisquel 7.0
+Release:	7.0
+Codename:	toutatis
+----------/etc/lsb-release----------
+DISTRIB_ID=Trisquel
+DISTRIB_RELEASE=7.0
+DISTRIB_CODENAME=toutatis
+DISTRIB_DESCRIPTION="Trisquel 7.0"
+----------/etc/os-release----------
+NAME="Ubuntu"
+VERSION="14.04.1 LTS, Trusty Tahr"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu trusty (14.04.1 LTS)"
+VERSION_ID="14.04"
+----------/etc/debian_version----------
+wheezy/sid

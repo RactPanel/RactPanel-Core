@@ -1,0 +1,19 @@
+----------lsb_release -a----------
+Distributor ID:	Zorin
+Description:	Zorin OS 9
+Release:	9
+Codename:	precise
+----------/etc/lsb-release----------
+DISTRIB_ID=Zorin
+DISTRIB_RELEASE=9
+DISTRIB_CODENAME=trusty
+DISTRIB_DESCRIPTION="Zorin OS 9"
+----------/etc/os-release----------
+NAME="Ubuntu"
+VERSION="14.04.1 LTS, Trusty Tahr"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu trusty (14.04.1 LTS)"
+VERSION_ID="14.04"
+----------/etc/debian_version----------
+wheezy/sid
